@@ -31,8 +31,8 @@ isso: ''
 disqus: ''
 plugins:
 - jekyll-paginate
-permalink: /:year/:month/:title
-paginate: 3
+#permalink: /:year/:month/:title
+#paginate: 3
 
 highlighter: rouge
 markdown: kramdown
