@@ -1,4 +1,4 @@
-I"—#<ul>
+I"}#<ul>
   <li>Get it from <a href="https://github.com/scotte/jekyll-clean">github</a>.</li>
   <li>See the <a href="https://scotte.github.io/jekyll-clean">live demo</a>.</li>
   <li>See it <a href="https://scotte.org">in action on my own blog</a>.</li>
@@ -155,7 +155,7 @@ documentation for more details.</p>
 <h1 id="license">License</h1>
 
 <p>The content of this theme is distributed and licensed under a
-<img src="ardalanhayatifar.github.io/images/cc_by_88x31.png" alt="License Badge" />
+<img src="/images/cc_by_88x31.png" alt="License Badge" />
 <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 License</a></p>
 
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>This license lets others distribute, remix, tweak, and build upon your work,
