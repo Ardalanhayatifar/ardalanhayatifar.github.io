@@ -5,7 +5,7 @@ permalink: "/blog"
 ---
 
 <div class="well">
-    <h1>Blog Posts</h1>
+    <h1>Blog Posts by Categories</h1>
     
     <div id="archives">
         {% for category in site.categories %}
@@ -27,7 +27,9 @@ permalink: "/blog"
     
     
     
-    
+    <br>
+    <h1>Blog Posts Archive</h1>
+
     <ul>
         {% for post in site.posts limit: %}
           <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
