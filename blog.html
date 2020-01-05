@@ -5,7 +5,11 @@ permalink: "/blog"
 ---
 
 <div class="well">
-    <h1>About me</h1>
-    <p>Hello, I am me.</p>
+    <h1>Blog Posts</h1>
+    <ul>
+        {% for post in site.posts limit:5 %}
+          <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
 </div>
 
