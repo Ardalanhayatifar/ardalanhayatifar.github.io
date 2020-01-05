@@ -13,10 +13,11 @@ categories: Research
     {% assign categories = page.categories %}
   {% endif %}
   {% for category in categories %}
-  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  {{category}}
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </div>
+<br>
 * Get it from [github](https://github.com/scotte/jekyll-clean).
 * See the [live demo](https://scotte.github.io/jekyll-clean).
 * See it [in action on my own blog](https://scotte.org).
