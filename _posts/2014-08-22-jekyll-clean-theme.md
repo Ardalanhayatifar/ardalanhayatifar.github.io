@@ -3,6 +3,8 @@ layout: post
 title: "Jekyll Clean Theme"
 date: 2014-08-22 16:25:06 -0700
 comments: false
+categories: Research
+
 ---
 
 * Get it from [github](https://github.com/scotte/jekyll-clean).
