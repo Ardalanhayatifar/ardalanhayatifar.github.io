@@ -13,7 +13,7 @@ categories: Research
     {% assign categories = page.categories %}
   {% endif %}
   {% for category in categories %}
-  {{category}}
+  Category: {{category}}
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </div>
