@@ -6,7 +6,17 @@ comments: false
 categories: Research
 
 ---
-
+<div class="post-categories">
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</div>
 * Get it from [github](https://github.com/scotte/jekyll-clean).
 * See the [live demo](https://scotte.github.io/jekyll-clean).
 * See it [in action on my own blog](https://scotte.org).
