@@ -25,7 +25,6 @@ Stephan has previously shown that P/B FLP reacts with C-F bond containing compou
 break it heterolytically.
 <br>
 
-![FLPs_background](https://dl.dropboxusercontent.com/s/hu436p06ftnc7pg/FLPs_background.png?dl=0)
 ![FLPs_background](https://dl.dropboxusercontent.com/s/bthvv4euey4pt22/FLPs_background3.png?dl=0)
 
 
