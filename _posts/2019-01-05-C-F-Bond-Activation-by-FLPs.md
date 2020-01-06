@@ -42,3 +42,8 @@ later does a C-P to C-O migration (rearrangement) and finally BPh<sub>3</sub> wi
 <br/>
 ![FLP_nu_attack](https://dl.dropboxusercontent.com/s/nh9sf8eu3wwt5uq/FLP_nu_attack.png?dl=0){:height="100%" width="800px"}  
 
+# Conclusions
+
+The concept of FLPs was discovered by Doug Stephan the author of this paper. This paper shows the vast potential 
+of these species.
+> FLPs ability to intercept reaction intermediates...
