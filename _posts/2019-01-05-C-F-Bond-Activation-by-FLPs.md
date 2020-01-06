@@ -29,6 +29,6 @@ break it heterolytically.
 # When the Lewis Base is used Without a Lewis Acid Present: No FLP
 The Lewis base acts a very strong base at P and It reacts first by defluorinating the alpha fluorine of the first molecule of 
 PHC(O)CF<sub>3</sub> to form a salt. Then the formed anion PHC(O)CF<sub>2</sub><sup>-</sup> attacks the second molecule of PHC(O)CF<sub>3</sub>. It just looks like an Aldol condensation but with fluorines instead of hydrogens. This intermediate could be
-further verified by derivatizing it, by reacting it with R<sub>3</sub>SiCl.  
+further verified by derivatizing it, by reacting it with R<sub>3</sub>SiCl.    
 ![FLP_as_base](https://dl.dropboxusercontent.com/s/ark8707nx0uwnoy/FLP_as_base5.jpg?dl=0){:height="177px" width="800px"}  
 
