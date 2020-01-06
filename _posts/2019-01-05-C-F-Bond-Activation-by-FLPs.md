@@ -23,7 +23,7 @@ In their recent [article](https://doi.org/10.1039/C9DT04588K), Stephan _et al._ 
 
 # Background: FLPs in C-F Activation
 Stephan has previously shown that P/B FLP reacts with C-F bond containing compounds to
-break it heterolytically.
+break it heterolytically.  
 <br/>
 ![FLPs_background](https://dl.dropboxusercontent.com/s/bthvv4euey4pt22/FLPs_background3.png?dl=0)
 <br/>
