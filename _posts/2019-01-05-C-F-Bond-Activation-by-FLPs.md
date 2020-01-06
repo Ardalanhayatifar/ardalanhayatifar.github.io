@@ -37,8 +37,8 @@ further verified by derivatizing it, by reacting it with R<sub>3</sub>SiCl.
 # The Reactivity of P(MeNCH<sub>2</sub>CH<sub>2</sub>)<sub>3</sub>N When BPh<sub>3</sub> Is Present: FLP
 
 In the presence of BPh<sub>3</sub>, proazaphosphatrane reversibly forms an FLP. This changes the reactivity of proazaphosphatrane
-completely and it will act as a nucelophile for PHC(O)CF<sub>3</sub> to form ** Int1/BPh<sub>3</sub> **. This intermediate
-later does a C-P to C-O migration (rearrangement) and finally BPh<sub>3</sub> will abstract an F<sup>-</sup> to form ** 2 **.  
+completely and it will act as a nucelophile for PHC(O)CF<sub>3</sub> to form __Int1/BPh<sub>3</sub>__. This intermediate
+later does a C-P to C-O migration (rearrangement) and finally BPh<sub>3</sub> will abstract an F<sup>-</sup> to form __2__.  
 <br/>
 ![FLP_nu_attack](https://dl.dropboxusercontent.com/s/nh9sf8eu3wwt5uq/FLP_nu_attack.png?dl=0){:height="100%" width="800px"}  
 
