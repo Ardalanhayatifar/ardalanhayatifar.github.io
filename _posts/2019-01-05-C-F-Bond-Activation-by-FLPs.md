@@ -32,13 +32,13 @@ The Lewis base acts a very strong base at P and It reacts first by defluorinatin
 PHC(O)CF<sub>3</sub> to form a salt. Then the formed anion PHC(O)CF<sub>2</sub><sup>-</sup> attacks the second molecule of PHC(O)CF<sub>3</sub>. It just looks like an Aldol condensation but with fluorines instead of hydrogens. This intermediate could be
 further verified by derivatizing it, by reacting it with R<sub>3</sub>SiCl.
 <br/>    
-![FLP_as_base](https://dl.dropboxusercontent.com/s/ark8707nx0uwnoy/FLP_as_base5.jpg?dl=0){:height="177px" width="800px"}  
+![FLP_as_base](https://dl.dropboxusercontent.com/s/ark8707nx0uwnoy/FLP_as_base5.jpg?dl=0){:height="100%" width="800px"}  
 
 # The Reactivity of P(MeNCH<sub>2</sub>CH<sub>2</sub>)<sub>3</sub>N When BPh<sub>3</sub> Is Present: FLP
 
 In the presence of BPh<sub>3</sub>, proazaphosphatrane reversibly forms an FLP. This changes the reactivity of proazaphosphatrane
-completely and it will act as a nucelophile for PHC(O)CF<sub>3</sub> to form ** Int1/BPh<sub>3</sub>**. This intermediate
-later does a C-P to C-O migration (rearrangement) and finally BPh<sub>3</sub> will abstract an F<sup>-</sup> to form **2**.  
+completely and it will act as a nucelophile for PHC(O)CF<sub>3</sub> to form ** Int1/BPh<sub>3</sub> **. This intermediate
+later does a C-P to C-O migration (rearrangement) and finally BPh<sub>3</sub> will abstract an F<sup>-</sup> to form ** 2 **.  
 <br/>
 ![FLP_nu_attack](https://dl.dropboxusercontent.com/s/nh9sf8eu3wwt5uq/FLP_nu_attack.png?dl=0){:height="100%" width="800px"}  
 
