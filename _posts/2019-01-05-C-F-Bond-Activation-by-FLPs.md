@@ -25,10 +25,7 @@ In their recent [article](https://doi.org/10.1039/C9DT04588K), Stephan _et al._ 
 Stephan has previously shown that P/B FLP reacts with C-F bond containing compounds to
 break it heterolytically.  
 <br/>
-![FLPs_background](https://dl.dropboxusercontent.com/s/bthvv4euey4pt22/FLPs_background3.png?dl=0)
-<br/>
-<br/>
-
+![FLPs_background](https://dl.dropboxusercontent.com/s/bthvv4euey4pt22/FLPs_background3.png?dl=0)  
 # When the Lewis Base is used Without a Lewis Acid Present: No FLP
 The Lewis base acts a very strong base at P and It reacts first by defluorinating the alpha fluorine of the first molecule of 
 PHC(O)CF<sub>3</sub> to form a salt. Then the formed anion PHC(O)CF<sub>2</sub><sup>-</sup> attacks the second molecule of PHC(O)CF<sub>3</sub>. It just looks like an Aldol condensation but with fluorines instead of hydrogens. This intermediate could be
