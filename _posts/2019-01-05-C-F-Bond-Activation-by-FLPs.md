@@ -20,5 +20,5 @@ categories: Highlights
 <br>
 # Introduction
 
-![hello](https://dl.dropboxusercontent.com/s/pfby2ubnvx2rjqj/FLP_as_base.png?dl=0){:height="680px" width="390px"}
+![hello](https://dl.dropboxusercontent.com/s/pfby2ubnvx2rjqj/FLP_as_base.png?dl=0){:height="607px" width="870px"}
 
