@@ -46,7 +46,7 @@ later does a C-P to C-O migration (rearrangement) and finally BPh<sub>3</sub> wi
 
 > FLPs are able to intercept reaction intermediates.
 
-The paper also later describes how using FLPs, the resulting enolates of acetophenone can be incorporated into a phosphonium cation or a borate anion. This is promising for accessing divergent synthetic solutions using FLPs.
+The paper also later describes how using FLPs, the resulting enolates of acetophenone can be incorporated into a phosphonium cation or a borate anion. This is promising for accessing divergent synthetic solutions using FLPs.  
 <br/>
 ![diverg](https://dl.dropboxusercontent.com/s/kbpkj7isrh9iicu/diverg.jpeg?dl=0){:height="100%" width="800px"}  
 <br/>
