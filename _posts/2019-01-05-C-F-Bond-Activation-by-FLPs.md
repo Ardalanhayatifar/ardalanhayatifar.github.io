@@ -31,5 +31,5 @@ break it heterolytically.
 ![FLP_as_base](https://dl.dropboxusercontent.com/s/ark8707nx0uwnoy/FLP_as_base5.jpg?dl=0){:height="177px" width="800px"}
 
 <p align="center">
-  <img width="460" height="300" src="https://dl.dropboxusercontent.com/s/hu436p06ftnc7pg/FLPs_background.png?dl=0">
+  <img width="800" height="177" src="https://dl.dropboxusercontent.com/s/hu436p06ftnc7pg/FLPs_background.png?dl=0">
 </p>
