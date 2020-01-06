@@ -40,5 +40,5 @@ In the presence of BPh<sub>3</sub>, proazaphosphatrane reversibly forms an FLP. 
 completely and it will act as a nucelophile for PHC(O)CF<sub>3</sub> to form ** Int1/BPh<sub>3</sub>**. This intermediate
 later does a C-P to C-O migration (rearrangement) and finally BPh<sub>3</sub> will abstract an F<sup>-</sup> to form **2**.  
 <br/>
-![FLP_nu_attack](https://dl.dropboxusercontent.com/s/nh9sf8eu3wwt5uq/FLP_nu_attack.png?dl=0){:height="354px" width="800px"}  
+![FLP_nu_attack](https://dl.dropboxusercontent.com/s/nh9sf8eu3wwt5uq/FLP_nu_attack.png?dl=0){:height="100%" width="800px"}  
 
