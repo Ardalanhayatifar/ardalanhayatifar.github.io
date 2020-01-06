@@ -57,6 +57,14 @@
 <div class="sidebar well">
     <h1>Recent Posts</h1>
     <ul>
+        {% for post in site.posts limit:3 %}
+          <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+</div>
+<!-- <div class="sidebar well">
+    <h1>Recent Posts</h1>
+    <ul>
         
           <li><a href="ardalanhayatifar.github.io/2014/08/jekyll-clean-theme">Jekyll Clean Theme</a></li>
         
@@ -69,7 +77,7 @@
           <li><a href="ardalanhayatifar.github.io/2013/05/Nulla-vel-risus-dapibus">Nulla vel risus dapibus</a></li>
         
     </ul>
-</div>
+</div> -->
 
         </div>
         <div class="col-md-9">
