@@ -24,8 +24,9 @@ In their recent [article](https://doi.org/10.1039/C9DT04588K), Stephan _et al._ 
 Stephan has previously shown that P/B FLP reacts with C-F bond containing compounds to
 break it heterolytically.
 <br>
-
-![FLPs_background](https://dl.dropboxusercontent.com/s/hu436p06ftnc7pg/FLPs_background.png?dl=0){.center}
+<p align="center">
+![FLPs_background](https://dl.dropboxusercontent.com/s/hu436p06ftnc7pg/FLPs_background.png?dl=0)
+</p>
 
 
 ![FLP_as_base](https://dl.dropboxusercontent.com/s/ark8707nx0uwnoy/FLP_as_base5.jpg?dl=0){:height="177px" width="800px"}
