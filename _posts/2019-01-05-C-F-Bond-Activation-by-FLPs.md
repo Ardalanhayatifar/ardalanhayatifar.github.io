@@ -28,5 +28,5 @@ categories: Highlights
 ![hello](https://dl.dropboxusercontent.com/s/cjth10mon07dkno/test3.png?dl=0)
 ![hello](https://dl.dropboxusercontent.com/s/tyhfpl4x6cxn8g7/test4.png?dl=0)
 ![hello](https://dl.dropboxusercontent.com/s/psf3d5hz29h8ovt/test5.png?dl=0)
-![hello](https://dl.dropboxusercontent.com/s/2nh5jsekorq51bb/test6.png?dl=0)
+![hello](https://dl.dropboxusercontent.com/s/2nh5jsekorq51bb/test6.png?dl=0){:height="177px" width="800px"}
 
