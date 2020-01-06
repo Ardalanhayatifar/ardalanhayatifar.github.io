@@ -45,12 +45,14 @@ later does a C-P to C-O migration (rearrangement) and finally BPh<sub>3</sub> wi
 # Conclusions
 
 > FLPs are able to intercept reaction intermediates.
-The paper also later describes how using FLPs, the resulting enolates of acetophenone can be incorporated into a phosphonium cation or a borate anion.
+
+The paper also later describes how using FLPs, the resulting enolates of acetophenone can be incorporated into a phosphonium cation or a borate anion. This is promising for accessing divergent synthetic solutions using FLPs.
+<br/>
+![diverg](https://dl.dropboxusercontent.com/s/kbpkj7isrh9iicu/diverg.jpeg?dl=0){:height="100%" width="800px"}  
+<br/>
 
 The author is the founder of FLPs. This paper shows the vast potential 
 of these species. especially in one of the most challenging bond activations (C-F bond). Looking at the 
 DFT calculated reaction profile, the breaking of the C-F bond is the rate-determining step and it is safe to say that 
 an actual C-F bond activation is happening. Again, it is interesting that the oxygen of carbonyl does not hinder the functionality of the FLP by acting as a Lewis base. Indeed, this is has been studied in details by Warren Piers in
 [B(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub> catalyzed hydrosilation of carbonyl functions] (https://doi.org/10.1021/jo991828a).
-
-
