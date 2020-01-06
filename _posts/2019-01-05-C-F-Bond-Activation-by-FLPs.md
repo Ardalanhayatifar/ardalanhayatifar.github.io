@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "C-F Bond Activation by FLPs"
-date: 2014-08-22 16:25:06 -0700
+date: {{ page.date | date: "%-d %B %Y"}}
 comments: false
 categories: Highlights
 
