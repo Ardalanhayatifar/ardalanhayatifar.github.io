@@ -9,4 +9,4 @@ permalink: "/teaching/quotes"
 **Bold**
 
 
-Hello my dude!
+In progress
