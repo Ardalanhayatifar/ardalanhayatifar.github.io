@@ -4,7 +4,7 @@ permalink: "/teaching/quotes"
 ---
 
 
-### Constructivism
+* ### Constructivism
 
 
 <div class="container">
