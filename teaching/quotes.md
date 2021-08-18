@@ -4,7 +4,6 @@ permalink: "/teaching/quotes"
 ---
 
 
-* ### Constructivism
 
 
 <div class="container">
@@ -14,6 +13,16 @@ permalink: "/teaching/quotes"
           <br> <span style="float:right;">Seymour Papert</span>
 
 </blockquote>
+
+
+<blockquote>The teacher is the one who gets the most out of the lessons, and the true teacher is the learner.
+          
+          <br> <span style="float:right;">Elbert Hubbard</span>
+
+</blockquote>
+
+
+
 
 
 </div>
