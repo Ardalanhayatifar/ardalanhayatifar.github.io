@@ -11,6 +11,6 @@ same sentence's first part \hfill this
 
 
 <div class="container">
-<blockquote><h3>Whenever you see a successful business, someone once made a courageous decision. 
-<br> [Peter F. Drucker]{style="float:right"}</h3></blockquote>
+<blockquote><h3>What comes first, "using" or "understanding"? The natural mode of learning is to first use, leading slowly to understanding. New ideas are a source of power to do something. 
+<br> [Seymour Papert]{style="float:right"}</h3></blockquote>
 </div>
