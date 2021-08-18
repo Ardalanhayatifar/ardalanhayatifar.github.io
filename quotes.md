@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: "/:teaching/:quotes"
+permalink: "/teaching/quotes"
 ---
 
 
