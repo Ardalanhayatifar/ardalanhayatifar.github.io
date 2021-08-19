@@ -4,6 +4,11 @@ permalink: "/about"
 
 ---
 
+### Bio
+
+My name is Ardalan and I am from Iran. I was born in Tehran.
+
+
 <div class="col-md-10">
     <h1>About me</h1>
     <p <align=”justify”>
