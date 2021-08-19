@@ -6,7 +6,11 @@ permalink: "/about"
 
 ### Bio
 
-My name is Ardalan and I am from Iran. I was born in Tehran.
+My name is Ardalan and I am from Iran. I was born in Tehran where I also did my undergrad and master's studies. I studied Chemistry at Shahid Beheshti University (also known as National University prior to 1979). In 2013, I entered the master's program in Nano-Chemistry at Iran University of Science and Technology.
+While growing up in large cities in Iran, our family managed to travel across the country. I have visited pretty much all parts of Iran with the exception of south-western parts. While working on my master's dissertation I traveled one last time with my family and visited pristine central parts of Iran.
+
+![The route for my last trip before leaving Iran in 2016](mages/ardalan.png){:class="img-responsive"}
+
 
 
 <div class="col-md-10">
