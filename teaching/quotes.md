@@ -7,6 +7,8 @@ permalink: "/teaching/quotes"
 
 
 <div class="container">
+<br>
+<br>
 
 <blockquote>What comes first, "using" or "understanding"? The natural mode of learning is to first use, leading slowly to understanding. New ideas are a source of power to do something. 
           
