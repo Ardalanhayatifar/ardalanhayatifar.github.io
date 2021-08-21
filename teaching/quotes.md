@@ -16,7 +16,7 @@ permalink: "/teaching/quotes"
 
 </blockquote>
 
-
+<br>
 <blockquote>The teacher is the one who gets the most out of the lessons, and the true teacher is the learner.
           
           <br> <span style="float:right;">Elbert Hubbard</span>
