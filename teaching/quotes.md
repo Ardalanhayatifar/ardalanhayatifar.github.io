@@ -32,7 +32,12 @@ permalink: "/teaching/quotes"
           <br> <span style="float:right;">Elbert Hubbard</span>
 
 </blockquote>
+<br>
+<blockquote>Education is the kindling of a flame, not the filling of a vessel.
+          
+          <br> <span style="float:right;">Socrates</span>
 
+</blockquote>
 
 
 
