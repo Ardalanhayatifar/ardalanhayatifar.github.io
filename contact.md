@@ -22,7 +22,7 @@ permalink: "/contact"
         <code class="language-plaintext highlighter-rouge">ardalan.hayatifar</code> [at] <code class="language-plaintext highlighter-rouge">usask.ca</code>
      Also, please feel free to follow this blog via <a href="https://ardalanhayatifar.github.io/feed.xml">RSS Feed</a>.  
     </p>
-    <!-- <a href="https://www.w3schools.com">Visit W3Schools.com!</a> -->
+    
 
      <h2>Other Routes</h2>
      <ul>
