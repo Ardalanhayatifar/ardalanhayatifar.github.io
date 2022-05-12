@@ -17,7 +17,7 @@ permalink: "/contact"
 
 <div class="col-md-10">
 
-# Contact Me X@!
+# Contact Me
     <p> I can be reached by my email <code class="language-plaintext highlighter-rouge">ardalanhayatifar</code> [at] <code class="language-plaintext highlighter-rouge">gmail.com</code> or
         <code class="language-plaintext highlighter-rouge">ardalan.hayatifar</code> [at] <code class="language-plaintext highlighter-rouge">usask.ca</code>
      Also, please feel free to follow this blog via <a href="https://ardalanhayatifar.github.io/feed.xml">RSS Feed</a>.  
