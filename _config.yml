@@ -40,5 +40,3 @@ gems: ['jekyll-paginate']
 
 exclude: ['README.md', 'LICENSE']
 
-kramdown:  
-  parse_block_html: true
