@@ -3,7 +3,7 @@ layout: default
 permalink: "/contact"
 
 ---
-<head>
+
        <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-DB1B8K61SV"></script>
 <script>
@@ -16,4 +16,5 @@ permalink: "/contact"
 
 
 # Contact Me X@!
- 
+
+## Hi
