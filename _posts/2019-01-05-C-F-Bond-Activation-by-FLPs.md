@@ -4,6 +4,7 @@ title: "C-F Bond Activation by FLPs"
 date: 2020-01-05 16:25:06 -0700
 comments: false
 categories: Highlights
+published: false
 
 ---
 <div class="post-categories">
@@ -56,4 +57,3 @@ of these species. especially in one of the most challenging bond activations (C-
 DFT calculated reaction profile, the breaking of the C-F bond is the rate-determining step and it is safe to say that 
 an actual C-F bond activation is happening. Again, it is interesting that the oxygen of carbonyl does not hinder the functionality of the FLP by acting as a Lewis base. Indeed, this is has been studied in details by Warren Piers in
 [B(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub> catalyzed hydrosilation of carbonyl functions ](https://doi.org/10.1021/jo991828a).
-
