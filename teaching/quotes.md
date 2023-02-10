@@ -38,6 +38,12 @@ permalink: "/teaching/quotes"
           <br> <span style="float:right;">Socrates</span>
 
 </blockquote>
+<br>
+<blockquote>Sixty years ago I knew everything; now I know nothing; education is a progressive discovery of our own ignorance.
+          
+          <br> <span style="float:right;">Will Durant</span>
+
+</blockquote>
 
 
 
