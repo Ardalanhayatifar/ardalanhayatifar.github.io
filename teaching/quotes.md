@@ -47,6 +47,7 @@ permalink: "/teaching/quotes"
 
 <br>
 When did you know... how hard was it from being almost unknown to becoming one of the greatest pianists of all time?
+
 <blockquote>It took me a long time..., they call it *the learning tree* for a reason: the more you know, the faster you learn and the more learn. It accelerates - geometric progression.
           
           <br> <span style="float:right;">Yanni</span>
