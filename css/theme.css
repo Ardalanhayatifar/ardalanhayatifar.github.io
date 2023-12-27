@@ -49,3 +49,20 @@ body {
 .author a {
     color: #ee4444;
 }
+
+/* Add this to your CSS file or within a <style> tag in your HTML document */
+
+.responsive-image {
+    width: 100%;
+    height: auto;
+}
+
+.image-caption figcaption {
+    font-size: smaller;
+    color: gray;
+    text-align: center;
+}
+
+.image-caption {
+    margin-bottom: 15px; /* Adjust as needed */
+}
