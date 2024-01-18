@@ -26,3 +26,5 @@ One aspect of 'The Lost City of Z' that stands out is its exploration of the Ama
 We, in contrast, are fixated on comforts like plush couches and better cars, and depend heavily on chemicals for food production and disease control. Our urban structures, work commutes, and life goals are deeply influenced by societal values – get a degree, marry, have children, save for retirement, and then pass away. This demonstrates a stark difference from the Amazonian communities.
 
 The Akohas, as portrayed in the book, are not only masters of their environment but also of pharmacology. They sustainably hunt and utilize the forest, showcasing an intimate understanding of and respect for their natural surroundings.
+
+The 'Lost City of Z' actually existed, and because they used biodegradable materials, it is now not very visible. This represents the utmost form of adaptation: when you're gone, you give back to nature what you took. For modern humans, this process will take time. What prompted these people to pursue such an elevated style of living? Perhaps our current lifestyle doesn't allow for this.
