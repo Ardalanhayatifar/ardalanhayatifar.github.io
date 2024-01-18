@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Lost City of Z"
-date: 2020-01-05 16:25:06 -0700
+date: 2024-01-18 15:34:06 -0400
 comments: false
 categories: Books
 published: true
