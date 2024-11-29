@@ -55,5 +55,10 @@ the <i>learning tree</i> for a reason. the more you know, the faster you learn a
 
 </blockquote>
 
+<blockquote>For the things we have to learn before we can do them, we learn by doing them.
+
+          <br> <span style="float:right;">Aristotle</span>
+
+</blockquote>
 
 </div>
