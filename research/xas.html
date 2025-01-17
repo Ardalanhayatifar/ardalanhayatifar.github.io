@@ -35,7 +35,7 @@ gtag('config', 'G-DB1B8K61SV');
       <h3 id="research-interests">Research Interests</h3>
       <h3> X-ray Absorption Spectroscopy (XAS) of Fe and S Species </h3>  
       <p>
-        I started my postdoctoral work at the University <em>of</em> Saskatchewan by analyzing previously collected data from the SXRMB beamline at the Canadian Light Source (CLS). The data included standards and real samples with both Fe and S K-edge XAS measurements. Using Linear Combination Fitting (LCF), one can determine what standards constitute the measured samples. Fe-XAS has an interesting pre-edge feature that can give a lot of information on the coordination environment of Fe atoms.
+        I started my postdoctoral work at the University <em>of</em> Saskatchewan by analyzing previously collected data from the SXRMB beamline at the Canadian Light Source (CLS). The data included standards and real samples with both Fe and S K-edge XAS measurements. Using Linear Combination Fitting (LCF), one can determine what standards constitute the measured samples. Fe K-edge XAS has an interesting pre-edge feature that can give a lot of information on the coordination environment of Fe atoms.
     </p>
     
     <!-- Embedding an image with alt text for better accessibility -->
@@ -65,6 +65,53 @@ Here is a closer look at another fitted pre-edge feature:
 
 
 </div>
+
+<p>
+  The pre-edge feature is due to \(1s \rightarrow 3d\) transition, and is sensitive to the local environment (e.g. oxidation state, symmetry) of Fe atoms. The pre-edge centroid position depends mainly on the oxidation state of Iron. However, its intensity is mostly dependent on the coordination environment around \(\ce{Fe}\) atoms.<sup>[1,2]</sup> The pre-edge is extracted from XANES spectra by using linear and Lorentzian functions to subtract the baseline, in the range of 7100–7120 \(\si{\eV}\). The isolated feature is fitted with Gaussian components. The addition of extra components is justified by improvements in reduced-\(\chi^2\). The fit results include <em>Amplitude</em> which represents the area of the unit-normalized peak.<sup>[3]</sup>
+</p>
+
+<p>
+  <strong>The \(\ce{Fe^{2+}}/\Sigma \ce{Fe}\) and \(\ce{Fe^{3+}}/\Sigma \ce{Fe}\) Ratios:</strong> 
+  Studies suggest that the individual pre-edge peaks between 7111.2–7112.2 \(\si{\eV}\) are mainly due to \(\ce{Fe^{2+}}\) \(\bigl(E_0^{\ce{Fe^{2+}}}\bigr)\) 
+  and peaks in the range of 7113–7114 \(\si{\eV}\) are mainly for \(\ce{Fe^{3+}}\) \(\bigl(E_0^{\ce{Fe^{3+}}}\bigr)\).<sup>[4,5]</sup>
+  The fit centroid is area-weighted and is calculated according to the equation below:
+</p>
+
+<p style="text-align: center;">
+  \[
+    C = 
+    \frac{I^{\ce{Fe^{3+}}} \, E_0^{\ce{Fe^{3+}}} \;+\;
+          I^{\ce{Fe^{2+}}} \, E_0^{\ce{Fe^{2+}}}}
+         {I^{\ce{Fe^{3+}}} \;+\; I^{\ce{Fe^{2+}}}}
+  \]
+</p>
+
+<p>
+  The determination of the oxidation state of \(\ce{Fe}\) using XANES is an indirect method and relies on calibration with wet chemical methods or Mössbauer spectroscopy data. There are several reports that utilize intensity ratios or centroid-based calibrations to determine the oxidation state of \(\ce{Fe}\) in samples.<sup>[4,6]</sup> 
+  For this study, the centroid-based calibration (shown below) reported by Knipping <em>et al.</em> will be used to calculate the \(\ce{Fe^{2+}}/\Sigma\ce{Fe}\) and \(\ce{Fe^{3+}}/\Sigma\ce{Fe}\) ratios. This equation is only valid when 
+  \(7111.9 < C < 7113.4\;\si{\eV}\), thus any sample with a centroid above the upper range is considered to be 100% \(\ce{Fe^{3+}}\).
+</p>
+
+<p style="text-align: center;">
+  \[
+    \frac{\ce{Fe^{2+}}}{\Sigma \ce{Fe}} 
+    = 
+    1 \;-\; 0.5879 \times \bigl(C - 7111.9\bigr)^{1.2527}
+  \]
+</p>
+
+<!-- References (example format) -->
+<p>
+  <small>
+  [1] Yamamoto, T., et al. (2008). <br>
+  [2] Wilke, M., et al. (2004). <br>
+  [3] Newville, M. (2013). <br>
+  [4] Knipping, J. L., et al. (2015). <br>
+  [5] Alderman, O. L. G., et al. (2017). <br>
+  [6] Wilke, M., et al. (2005). 
+  </small>
+</p>
+
 
 
 </body>
